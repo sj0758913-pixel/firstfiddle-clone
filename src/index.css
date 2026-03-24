@@ -1,0 +1,418 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+body{
+    overflow-x: hidden;
+}
+/* nav css start */
+.navbar-brand img{
+    width: 65px;
+    margin-left: 20px;
+}
+/* nav end  */
+.navbar{
+    background: #00000082 !important;
+}
+.navbar-nav li{
+    padding: 0 30px;
+}
+.navbar-nav li a{
+    color: white;
+}
+
+
+/* home page css start */
+.Himg12 {
+     width: 80%;
+     align-self: center;
+}
+
+ .Ha {
+     text-align: center;
+     padding-top: 20px;
+     text-transform: uppercase;
+     font-family: 'prague';
+     letter-spacing: 3px;
+ }
+
+ .Hc {
+     background: url(https://pn-paul.netlify.app/image/img%20background.jpg);
+     width: 100%;
+     height: 450px;
+     padding-top: 120px;
+     margin-top: 20px;
+ }
+
+ .Hd {
+     line-height: 35px;
+     letter-spacing: 1px;
+     word-spacing: 1px;
+     padding-right: 5px;
+ }
+
+ .He {
+     line-height: 25px;
+     text-align: center;
+     letter-spacing: 1px;
+     word-spacing: 1px;
+     /* padding: 0 250px; */
+     margin-top: 10px;
+ }
+ .Hb{
+    margin-top: 50px;
+ }
+ .Hhello{
+    text-align: center;
+    padding-top: 100px;
+    letter-spacing: 3px;
+    font-size: 40px;
+    font-family: 'prague';
+    text-transform: uppercase;
+ }
+ .Hq{
+    height: 450px;
+ }
+ .Hs{
+    background: url(https://pn-paul.netlify.app/image/ffback2.png);
+    width: 100%;
+    height: 500px;
+    padding-top: 120px;
+     margin-top: 20px;
+ }
+ .Hs h2{
+    font-size: 40px;
+ }
+ .Hs p{
+    text-align: center;
+    line-height: 40px;
+    letter-spacing: 1px;
+     word-spacing: 1px;
+     /* padding: 0 250px; */
+     margin-top: 10px;
+ }
+
+
+ /* home page css end */
+
+ /* about page css start */
+ .back{
+   background: url(https://pn-paul.netlify.app/image/ourimage.jpg);
+   width: 100%;
+   height: 650px;
+   background-position: center;
+   background-size: cover;
+
+ }
+ .back h2{
+     color: white;
+  font-size:60px;
+  font-family: "prague";
+  padding-top: 300px;
+ }
+
+ .Aa{
+  text-align: center;
+  margin: 20px 0;
+}
+.Apanel2p{
+  line-height: 40px;
+  letter-spacing: 1px;
+  word-spacing: 5px;
+  text-align: justify;
+
+}
+.Ac {
+     background: url(https://pn-paul.netlify.app/image/gamebanner.jpg);
+     width: 100%;
+     height: 450px;
+     padding-top: 120px;
+     margin-top: 20px;
+ }
+ .Ad{
+  font-size: 40px;
+ }
+ .Ae{
+  /* padding: 0 300px; */
+  /* letter-spacing: 1px; */
+  word-spacing: 2px;
+  line-height: 35px;
+  color: rgb(231, 222, 222);
+ }
+ .Apanel4{
+  text-align: center;
+  letter-spacing: 3px;
+  font-size: 35px;
+  padding-top: 150px;
+  padding-bottom: 20px;
+ }
+ .Apanel4p{
+  line-height: 40px;
+  letter-spacing: 1px;
+  word-spacing: 5px;
+  text-align: justify;
+  /* padding-right: 50px; */
+ }
+.Apanel5{
+  text-align: center;
+  padding: 100px 0 20px 0;
+}
+.Apanel5p{
+   line-height: 40px;
+  letter-spacing: 1px;
+  word-spacing: 5px;
+  text-align: justify;
+}
+.Aimage1{
+  width: 100%;
+}
+.Aimage2{
+  width: 100%;
+}
+
+ /* about page css end */
+
+ /* brand page css start */
+.Baa{
+  background: url(https://pn-paul.netlify.app/image/brands.jpg);
+  width: 100%;
+  height: 650px;
+  background-position: center;
+  background-size: cover;
+}
+.Baa1{
+  text-align: center;
+  color: white;
+  font-size:60px;
+  font-family: "prague";
+  padding-top: 300px;
+}
+.Bbb{
+    width: 380px;
+    height: 310px;
+    padding: 30px 0;
+}
+.Bbb1{
+  width: 380px;
+  height: 310px;
+  padding: 30px 0;
+}
+.Bbb2{
+  padding: 30px 0;
+}
+
+ /* brand page css end */
+
+ /* ourteam page css start */
+.OurA{
+   background: url(https://pn-paul.netlify.app/image/new-our-team.jpg);
+   width: 100%;
+   height: 650px;
+   background-position: center;
+   background-size: cover;
+}
+.OurA h2{
+   text-align: center;
+  color: white;
+  font-size:60px;
+  font-family: "prague";
+  padding-top: 300px;
+}
+.OurB img{
+   width: 500px;
+   height: 500px;
+   margin-top: 30px;
+   margin-bottom: 10px;
+}
+.OurB1{
+   margin-top: 30px;
+}
+.OurB1 h4{
+   font-size:17px;
+}
+.OurB1 p{
+   letter-spacing: 1px;
+   word-spacing: 2px;
+   line-height: 35px;
+   text-align: justify;
+   /* padding-right: 100px; */
+}
+.OurC{
+    background-image: url(https://pn-paul.netlify.app/image/YPAshok.jpg);
+     width: 400px;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+    margin: 0 20px 20px 0;
+    border-radius: 10px;
+    border-color: rgb(57, 44, 28);
+}
+.OurC1{
+   background-image: url(https://pn-paul.netlify.app/image/B.R.-Sachdeva.jpg);
+    width: 400px;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+    margin: 0 20px 20px 0;
+     border-radius: 10px;
+    border-color: rgb(57, 44, 28);
+
+}
+.OurC2{
+   background-image: url(http://pn-paul.netlify.app/image/Sagar-Bajaj.jpg);
+    width: 400px;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+    margin: 0 20px 20px 0;
+     border-radius: 10px;
+    border-color: rgb(57, 44, 28);
+}
+.OurD{
+   background-image: url(https://pn-paul.netlify.app/image/JAY-PHOTO-1-1.jpg);
+    width: 400px;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+    margin: 0 20px 20px 0;
+     border-radius: 10px;
+    border-color: rgb(57, 44, 28);
+}
+.OurD1{
+   background-image: url(https://pn-paul.netlify.app/image/vibhutiPR.jpg);
+    width: 400px;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+    margin: 0 20px 20px 0;
+     border-radius: 10px;
+    border-color: rgb(57, 44, 28);
+}
+
+
+
+ /* ourteam page css end */
+
+ /* contact page css start */
+.Ca{
+   background: url(https://pn-paul.netlify.app/image/CONTACT-US.jpg);
+   width: 100%;
+   height: 650px;
+   background-size: cover;
+}
+.Ca1{
+   font-size: 60px;
+   font-family: "prague";
+   padding-top: 300px;
+}
+.Cb{
+   margin: 20px 0;
+}
+.Cb h2{
+   font-size:x-large ;
+   font-weight: lighter;
+   margin: 40px 0;
+}
+.Cb1 h2{
+   font-size: x-large;
+   font-weight: lighter;
+}
+.Cb1 h4{
+   font-size:medium;
+   color:#ffa500
+}
+.Cb1 p{
+   letter-spacing: 1px;
+   font-weight: lighter;
+   padding-right: 100px;
+}
+
+ /* contact page css end */
+
+ footer{
+    /* height: 450px; */
+    background-color:#111215;
+    flex-wrap: wrap;
+ }
+ .foot{
+    letter-spacing: 5px;
+    font-family: "prague";
+    color: white;
+ }
+ .foot1{
+    padding-top: 50px;
+ }
+ .footP{
+    color: white;
+    font-size: large;
+    line-height: 35px;
+ }
+ .foothead h2{
+     color: orange;
+     font-size:medium;
+     font-family: "prague";
+     letter-spacing: 1px;
+ }
+ .foothead p{
+    color: white;
+ }
+ .foot2p{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+ }
+ .footlast{
+    padding: 0 310px;
+    /* padding-top: 10px; */
+ }
+ .align{
+    text-align: justify;
+ }
+
+
+ @media(max-width: 770px){
+  .navbar-nav{
+    align-items: flex-end;
+    line-height: 3px;
+}
+.menu{
+   align-items: center;
+}
+.ss{
+   width: 100%;
+   height: 400px;
+}
+.hha{
+   text-align:center;
+}
+.Hc{
+   height: 500px;
+}
+.ff div{
+   text-align: center;
+   margin-bottom: 30px;
+}
+ .Hq{
+    height: 1100px;
+}
+.Hs{
+   height: 600px;
+}
+.tt{
+   width: 300px;
+}
+.Bbb ,.Bbb1 ,.Bbb2{
+   width: 350px;
+}
+.OurB img{
+  width: 365px;
+  height: 390px;
+}
+.OurC ,.OurC1,.OurC2,.OurD,.OurD1{
+   width: 310px;
+}
+
+ }
+
