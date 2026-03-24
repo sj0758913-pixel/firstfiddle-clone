@@ -4,7 +4,7 @@ This repository contains my web development projects where I have focused on bui
 
 ## 🌐 Live Demo
 You can view the live version of these projects here:
-👉 **[Live Project Link](https://samyakfiddle.netlify.app)**
+[Live Project Link] : https://samyakfiddle.netlify.app
 
 ## 🛠️ Tech Stack
 * **Markup:** HTML5
