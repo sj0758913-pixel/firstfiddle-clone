@@ -1,12 +1,20 @@
-# React + Vite
+# Web Development Projects 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains my web development projects where I have focused on building clean and responsive user interfaces using **HTML, CSS, and React**.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
+You can view the live version of these projects here:
+👉 **[Live Project Link](https://samyakfiddle.netlify.app)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+* **Markup:** HTML5
+* **Styling:** CSS3 (Flexbox & Responsive Design)
+* **Framework:** React.js (Component-based UI)
+* **Deployment:** Netlify
 
-## Expanding the ESLint configuration
+## 📌 Key Highlights
+* **UI/UX Reproduction:** Successfully built website clones to practice layout accuracy and design principles.
+* **Component Architecture:** Used React to create reusable UI components.
+* **Responsive Design:** Optimized the layouts to ensure they look great on all screen sizes (Mobile, Tablet, and Desktop).
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Developed by Samyak Jain
